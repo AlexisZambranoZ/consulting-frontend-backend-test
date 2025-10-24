@@ -1,6 +1,6 @@
-# Proyecto Angular
+# Prueba Tecnica de consumo de api y representacion de datos en el fornt end 
 
-Este proyecto es una aplicación Angular que consume datos de una API y muestra productos con su imagen, descripción y precio. Incluye un botón para añadir al carrito.
+Este proyecto es una aplicación Angular que consume datos de una API y muestra el producto con su imagen, descripción y precio.
 
 ## Instalación
 
